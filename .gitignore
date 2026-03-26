@@ -1,0 +1,7 @@
+# Chặn tất cả mọi thứ
+*
+
+# Ngoại trừ file Lab1.py và chính file .gitignore này
+!Lab1.py
+!.gitignore
+!README.md
